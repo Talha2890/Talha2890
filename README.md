@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Talha2890
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React js , Node js
+- 👀 A Data Analyst & Business Intelligence Expert
+- 🌱 Tools I'm using (Power BI, Tableau, MS Excel, SQL, Python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
